@@ -6,7 +6,4 @@
 >- 🌱 I’m Beginner, and currently learning **Python** :copilot:
 >- :wave: thank u for attention, i hope u be careful😁.
 
-
-- Meme?
-![meme](https://i.pinimg.com/736x/2c/39/fd/2c39fd280d05c39c1c20f849b393eca3.jpg)
 ![meme2](https://i.pinimg.com/736x/ca/4e/76/ca4e76d606deb502de15846333669538.jpg)
