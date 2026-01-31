@@ -6,7 +6,7 @@
 >- 🌱 I’m Beginner, and currently learning **Python** :copilot:
 >- :wave: thank u for attention, i hope u be careful😁.
 
-<<<<<<< HEAD
+
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
