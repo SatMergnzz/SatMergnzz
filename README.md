@@ -17,6 +17,3 @@
     <img src="https://skillicons.dev/icons?i=github,discord,instagram,robloxstudio,windows" />
   </a>
 </p>
-=======
-![meme2](https://i.pinimg.com/736x/ca/4e/76/ca4e76d606deb502de15846333669538.jpg)
->>>>>>> 14509492c2cb60c455d4617f05d397857986e3c2
