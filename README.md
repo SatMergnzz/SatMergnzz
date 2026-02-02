@@ -14,11 +14,15 @@
   <a href="https://discord.com/SatriaMeri#9908" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
 
-> [!NOTE] 
+
+
+>[!NOTE] 
 **About Me!**
 >- 🎓 I'm Student at [@sman2mojokerto](https://www.instagram.com/sman2mojokerto).
 >- 🌱 I’m Beginner, and currently learning **Python** :copilot:
 >- :wave: thank u for attention, i hope u be careful😁.
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
