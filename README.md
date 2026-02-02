@@ -15,13 +15,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,instagram,robloxstudio,windows" />
-  </a>
-</p>
-
-
 >[!TIP]
 >**About Me!**
 >- 🎓 I'm Student at [@sman2mojokerto](https://www.instagram.com/sman2mojokerto).
