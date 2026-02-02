@@ -1,4 +1,4 @@
-## Hi World!👋 I'm Satria, Welcome to My Github😁🙌
+## Hi World!👋 I'm Satria, Enjoy's Ur Day!🙌
 ![header](./github-header-banner.png)
 
 <div align="center">
@@ -15,9 +15,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
 
 
+<div align = "center">
 
->[!NOTE] 
-**About Me!**
->- 🎓 I'm Student at [@sman2mojokerto](https://www.instagram.com/sman2mojokerto).
->- 🌱 I’m Beginner, and currently learning **Python** :copilot:
->- :wave: thank u for attention, i hope u be careful😁.
+``` 
+                              **About Me!**
+- 🎓 I'm Student at [@sman2mojokerto](https://www.instagram.com/sman2mojokerto).
+- 🌱 I’m Beginner, and currently learning **Python** :copilot:
+- :wave: thank u for attention, i hope u be careful😁.
+```
