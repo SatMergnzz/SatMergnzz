@@ -21,8 +21,8 @@
   </a>
 </p>
 
->[!NOTE] 
-**About Me!**
+> [!NOTE] 
+>**About Me!**
 >- 🎓 I'm Student at [@sman2mojokerto](https://www.instagram.com/sman2mojokerto).
 >- 🌱 I’m Beginner, and currently learning **Python** :copilot:
 >- :wave: thank u for attention, i hope u be careful😁.
